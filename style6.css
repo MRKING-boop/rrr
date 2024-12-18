@@ -1,0 +1,73 @@
+html, body {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+
+a{
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.3s ease;
+}
+
+a:hover{
+    color: #388e3c !important;
+}
+a{
+    color: #ffffff;
+}
+
+body{
+    background: #171717;
+    padding: 20px;
+    animation: fadeInAnimation ease 2s;
+}
+
+
+
+
+
+
+
+
+.btn {
+    display: inline-block;
+    background: #242424;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: background 0.5s;
+}
+
+
+.btn:hover{
+    background: rgb(0, 0, 0);
+}
+
+
+h3{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
